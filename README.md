@@ -51,7 +51,7 @@ This project is optimized for use with Google Colab. To use it:
    ```
 3. Run the script:
    ```
-   python facial_replacement.py
+   python main.py
    ```
 
 ### Google Colab Example
