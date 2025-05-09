@@ -20,8 +20,8 @@ This project uses MediaPipe's FaceMesh to detect facial landmarks in both a sour
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/facial-replacement-generator.git
-   cd facial-replacement-generator
+   git clone https://github.com/tusharrrrrp/DeepFake_video_creation.git
+   cd DeepFake_video_creation
    ```
 
 2. Install dependencies:
