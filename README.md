@@ -66,7 +66,7 @@ target_image_path = '/content/drive/My Drive/source.png'
 output_video_path = '/content/drive/My Drive/deepfake_output.avi'
 
 # Run the main script
-%run facial_replacement.py
+%run main.py
 ```
 
 ## How It Works
